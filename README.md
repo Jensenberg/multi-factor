@@ -8,7 +8,7 @@
   
   2.factor_test.py, 单因子有效性的评价指标
   * 因子收益率（均值、标准差)  
-  $$R_{it} = \beta_{it} + \beta_{it} * f_{it}
+  $$R_{it} = \beta_{it} + \beta_{it} * f_{it}$$
   * 因子收益率的T值  
   * IC值
   
@@ -17,4 +17,4 @@
   * 单调性
   * IC值相关性
 
-![](http://latex.codecogs.com/gif.latex?\\sum^{j-1}_{k=0}{\widehat{\gamma}_{kj} z_k}$$)
+![](http://latex.codecogs.com/gif.latex?\\sum^{j-1}_{k=0}{\widehat{\gamma}_{kj} z_k})
