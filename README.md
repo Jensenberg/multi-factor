@@ -17,4 +17,6 @@
   * 单调性
   * IC值相关性
 
-<img src="http://latex.codecogs.com/gif.latex?\sum^{j-1}_{k=0}{\widehat{\gamma}_{kj} z_k})
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\
