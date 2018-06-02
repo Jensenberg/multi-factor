@@ -1,4 +1,3 @@
-$font-size-base = 20px
 # -*- coding: utf-8 -*-
 """
 Created on Fri May 25 18:34:39 2018
