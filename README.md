@@ -8,7 +8,7 @@
   
   2.factor_test.py, 单因子有效性的评价指标
   * 因子收益率（均值、标准差)  
-  $$R_{i,t} = \beta_{0, t} + \beta_{1, t} * f_{i, t}
+  $$R_{it} = \beta_{0t} + \beta_{1t} * f_{it}
   * 因子收益率的T值  
   * IC值
   
