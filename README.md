@@ -17,4 +17,4 @@
   * 单调性
   * IC值相关性
 
-![](http://latex.codecogs.com/gif.latex?\\sum^{j-1}_{k=0}{\widehat{\gamma}_{kj} z_k})
+<img src="http://latex.codecogs.com/gif.latex?\sum^{j-1}_{k=0}{\widehat{\gamma}_{kj} z_k})
