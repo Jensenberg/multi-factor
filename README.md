@@ -8,8 +8,7 @@
   
   2.factor_test.py, 单因子有效性的评价指标
   * 因子收益率（均值、标准差)  
-  $$R_(it) = beta_t + beta_(it) * f_(it)  
-  $$\sum_{i=1}^n a_i=0$$
+  $$R_{it} = beta_t + beta_{it} * f_{it}, i = 1, 2, ..., N   
   * 因子收益率的T值  
   
   3.class_test.py, 大类因子之间有效的比较  
